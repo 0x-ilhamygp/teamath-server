@@ -1,7 +1,7 @@
 {
-  "name": "nest-typescript-starter",
+  "name": "teamath-server",
   "version": "1.0.0",
-  "description": "Nest TypeScript starter repository",
+  "description": "Teamath Server",
   "license": "MIT",
   "repository": "https://github.com/0x-ilhamygp/teamath-server.git",
   "scripts": {
